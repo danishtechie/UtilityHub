@@ -1,6 +1,6 @@
 # UtilityHub 🚀
 
-**UtilityHub** is a modern, privacy-focused, offline-first Android utility suite built with **Kotlin, Jetpack Compose (Material 3 Glassmorphism)**, and **Architecture Components**.
+**UtilityHub** is a modern, privacy-focused, offline-first Android utility suite built with **Kotlin, Jetpack Compose, and **Architecture Components**.
 
 Architected and developed by **Danish Baigh**.
 
