@@ -1,0 +1,24 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+*/build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Temporary & IDE artifacts
+.artifacts/
+.artifacts/**
+
+# Keystores and Secrets
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+
+# Firebase Config (Secrets)
+google-services.json
+app/google-services.json

@@ -1,0 +1,4 @@
+<resources>
+    <!-- Product name: change here (and applicationId in app/build.gradle.kts) to rebrand. -->
+    <string name="app_name">UtilityHub</string>
+</resources>

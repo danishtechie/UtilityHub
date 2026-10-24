@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.UtilityHub" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF0F1126</item>
+    </style>
+</resources>
