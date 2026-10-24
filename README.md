@@ -6,6 +6,18 @@ Architected and developed by **Danish Baigh**.
 
 ---
 
+## 📱 App Screenshots
+
+<div align="center">
+  <img src="docs/screenshots/home_screen.png" width="280" alt="Home Screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/screenshots/explore_images.png" width="280" alt="Image Tools" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/screenshots/explore_pdf.png" width="280" alt="PDF Tools" />
+</div>
+
+---
+
 ## ✨ Features
 
 UtilityHub offers a complete collection of powerful local processing utilities grouped across 6 major categories:
@@ -38,7 +50,7 @@ UtilityHub offers a complete collection of powerful local processing utilities g
 ## 🔒 Security & Privacy
 
 - **100% On-Device Processing**: Photos, videos, documents, and archives never leave your device.
-- **Secure Authentication**: Optional accounts via Firebase Authentication with email verification, input sanitization, and brute-force attempt lockout.
+- **Secure Authentication**: Accounts via Firebase Authentication with mandatory email verification, input sanitization, and brute-force attempt lockout.
 - **Zero Telemetry**: No analytics tracking, background data logging, or advertising SDKs.
 - **Storage Access Framework (SAF)**: Uses standard Android file pickers to access files without asking for unnecessary system privileges.
 
@@ -78,13 +90,6 @@ UtilityHub offers a complete collection of powerful local processing utilities g
 2. Open the project in **Android Studio**.
 3. Let Gradle sync and download dependencies.
 4. Select `:app` target and click **Run** (▶) on an emulator or connected device (Android 8.0+ / API 26+).
-
-### Gradle Commands
-```bash
-./gradlew :core-logic:test       
-./gradlew :app:testDebugUnitTest 
-./gradlew :app:assembleDebug     
-```
 
 ---
 
