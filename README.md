@@ -13,7 +13,6 @@ Architected and developed by **Danish Baigh**.
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="docs/screenshots/explore_images.png" width="280" alt="Image Tools" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/screenshots/explore_pdf.png" width="280" alt="PDF Tools" />
 </div>
 
 ---
